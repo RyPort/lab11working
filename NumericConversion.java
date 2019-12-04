@@ -1,5 +1,6 @@
 import java.util.*;
-// Testing github update. HI!!!!
+// Github update test
+
 public class NumericConversion {
 
     // Returns the base 16 value of a series of characters
